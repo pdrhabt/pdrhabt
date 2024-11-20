@@ -7,11 +7,14 @@
 
 
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%;">
   <tr>
-    <td style="border: 0";>
-      <img width="400" src="https://i.imgur.com/bXxIgrd.png" />
-    </td> 
+    <td style="text-align: right;">
+      <img width="300" src="https://i.pinimg.com/736x/c8/27/78/c8277817e7bcccc82c0668de99314784.jpg" />
+    </td>
+  </tr>
+</table>
+
     
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pdr_torres/)
 
