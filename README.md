@@ -1,9 +1,9 @@
 <h1> Welcome, I am Pedro habt </h1>
 <h3> It's my profile! Take a look :D</h3>
 
-😎 I have knowledge in: Python, HTML, CSS, Git, Linux and Excel 
-✝️ I'm Christian, and and i'm studying in the Soli Deo Gloria project, focused on forming bivocated missionaries
-🌵 Proud of my people and where I was born *ST-PE*
+<P>😎 I have knowledge in: Python, HTML, CSS, Git, Linux and Excel</P> 
+<p>✝️ I'm Christian, and and i'm studying in the Soli Deo Gloria project, focused on forming bivocated missionaries</p>
+<p>🌵 Proud of my people and where I was born *ST-PE*</p>
 
 
 
