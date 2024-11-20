@@ -1,7 +1,7 @@
 <h1> Welcome, I am Pedro habt </h1>
 <h3> It's my profile! Take a look :D</h3>
 
-
+😎 I have knowledge in: Python, HTML, CSS, Git, Linux and Excel 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pdr_torres/)
 
 <!--
