@@ -3,7 +3,7 @@
 
 <P>😎 I have knowledge in: Python, HTML, CSS, Git, Linux and Excel</P> 
 <p>✝️ I'm Christian, and and i'm studying in the Soli Deo Gloria project, focused on forming bivocated missionaries</p>
-<p>🌵 Proud of my people and where I was born |ST-PE|+55</p>
+<p>🌵 Proud of my people and where I was born |ST-PE| +55</p>
 
 
 
