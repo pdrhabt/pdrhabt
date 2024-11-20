@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1> Hello guest! I´m Pedro Henrique Alves Nogueira de Barros Torres </h1> 
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pdr_torres/)
 
 <!--
 **pdrhabt/pdrhabt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
