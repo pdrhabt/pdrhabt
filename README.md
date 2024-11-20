@@ -1,5 +1,5 @@
 <h1> Welcome, I'm Pedro habt </h1>
-It's my profile! :D
+<h3> It's my profile! :D</h3>
 
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pdr_torres/)
